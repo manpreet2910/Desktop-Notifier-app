@@ -44,7 +44,7 @@ Desktop Notifier is a Python application using Tkinter and Plyer to create deskt
 4. Wait for the specified time, and the notification will appear.
 
 ## Screenshots
-![Alt ](<Screenshot 2024-01-25 221601.png>) 
+![Alt ](Screenshots/Screenshot 2024-01-25 221601.png) 
 ![Alt text](<Screenshot 2024-01-25 221444.png>)
 
 ## Acknowledgments
