@@ -43,10 +43,6 @@ Desktop Notifier is a Python application using Tkinter and Plyer to create deskt
 3. Click the "SET NOTIFICATION" button.
 4. Wait for the specified time, and the notification will appear.
 
-## Screenshots
-![User input screenshot](Screenshots/Screenshot%2024-01-25%221601.png) 
-![Notifier screenshot](Screenshots/Screenshot%2024-01-25%221444.png)
-
 ## Acknowledgments
 
 Thanks to the contributors of Tkinter, Plyer, and other open-source libraries used in this project.
