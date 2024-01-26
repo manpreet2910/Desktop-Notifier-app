@@ -23,7 +23,7 @@ def get_details():
         int_time = int(float(get_time))
         min_to_sec = int_time*60
         messagebox.showinfo("set", "set notification ?")
-        
+        t.destroy()
         time.sleep(min_to_sec)
 
         notification.notify(title=get_title,
