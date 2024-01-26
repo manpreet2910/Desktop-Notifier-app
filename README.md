@@ -46,3 +46,10 @@ Desktop Notifier is a Python application using Tkinter and Plyer to create deskt
 ## Acknowledgments
 
 Thanks to the contributors of Tkinter, Plyer, and other open-source libraries used in this project.
+
+## Contact
+
+- Manpreet Singh
+- Email: manu2910.sm@gmail.com
+
+Feel free to reach out if you have any questions or feedback!
